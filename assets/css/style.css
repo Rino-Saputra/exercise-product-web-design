@@ -1,0 +1,123 @@
+.btn-signin{
+    margin-right: 20px;
+}
+
+.bg-dark-mod{
+    background-color: #263238;
+}
+
+.list-button{
+    padding: 10px 1em;
+    outline: transparent;
+    border-style: none;
+    border-radius: 15px;
+}
+
+.color1{
+    background-color: #02897A;
+}
+
+.color2{
+    background-color: #4D8DFF;
+}
+
+.color3{
+    background-color: #740A76;
+}
+
+.color4{
+    background-color: #F03E3D;
+}
+
+.color5{
+    background: #02897A!important;
+}
+
+.color6{
+    background: #22343D!important;
+}
+
+.color-t{
+    color: #02897A;
+}
+
+.h-blur{
+    opacity: 0.5;
+}
+
+.z-blur{
+    opacity: 1;
+}
+
+.large-font{
+    font-size: 6rem;
+}
+
+.buble{
+    width: 12px;
+    height: 12px;
+    background-color: white;
+}
+
+.buble2{
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.jumbo{
+    width: 100%;
+}
+
+.br{
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+.b-botom{
+    border-bottom: 1px solid #474747;
+    margin-bottom: 10px;
+}
+
+.input-g{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-g input,.form-mod{
+    width: 100%;
+    padding: 1em 1em;
+    background-color: transparent;
+    border-radius: 40px;
+    outline: none;
+    border: 1px solid #474747;
+}
+.width-mod{
+    width: 80%;
+}
+
+.input-g button{
+    position: absolute;
+    right: 8px;
+    padding: 0.6em 2rem;
+    background-color: #02897A;
+    border-radius: 40px;
+    outline: none;
+    border-style: none;
+    color: white;
+}
+
+.container-form{
+    width: 80%;
+    border: 1px solid white;
+    padding: 2em;
+}
+
+@media(max-width:768px){
+    .to-center{
+        text-align: center;
+    }
+    .to-full{
+        width: 100%;
+    }
+}
